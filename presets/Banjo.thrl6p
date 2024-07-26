@@ -11,7 +11,7 @@
         "@asset": "THR10C_Deluxe",
         "Bass": 0.0,
         "Drive": 0.77,
-        "Master": 0.1,
+        "Master": 0.69,
         "Mid": 0.99,
         "Treble": 0.04
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.16,
-        "Thresh": 0.7
+        "Thresh": -30.0
       },
       "global": {
         "THRPresetParamTempo": 110

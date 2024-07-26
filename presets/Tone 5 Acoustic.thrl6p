@@ -11,7 +11,7 @@
         "@asset": "THR10_Aco_Dynamic1",
         "Bass": 0.26,
         "Drive": 0.4,
-        "Master": 0.1,
+        "Master": 0.79,
         "Mid": 0.15,
         "Treble": 0.63
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

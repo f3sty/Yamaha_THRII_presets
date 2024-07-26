@@ -11,7 +11,7 @@
         "@asset": "THR10C_Mini",
         "Bass": 0.4,
         "Drive": 0.82,
-        "Master": 0.1,
+        "Master": 1.0,
         "Mid": 0.65,
         "Treble": 0.75
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

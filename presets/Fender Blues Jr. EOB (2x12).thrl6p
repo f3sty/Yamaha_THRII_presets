@@ -11,7 +11,7 @@
         "@asset": "THR10C_BJunior2",
         "Bass": 1.0,
         "Drive": 0.65,
-        "Master": 0.1,
+        "Master": 0.99,
         "Mid": 0.87,
         "Treble": 0.88
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

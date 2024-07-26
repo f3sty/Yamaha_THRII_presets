@@ -11,7 +11,7 @@
         "@asset": "THR30_Carmen",
         "Bass": 0.66,
         "Drive": 0.65,
-        "Master": 0.1,
+        "Master": 0.48,
         "Mid": 0.42,
         "Treble": 0.65
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.6,
-        "Thresh": 0.6
+        "Thresh": -40.0
       },
       "global": {
         "THRPresetParamTempo": 110

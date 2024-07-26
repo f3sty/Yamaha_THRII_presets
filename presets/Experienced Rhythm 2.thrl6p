@@ -11,7 +11,7 @@
         "@asset": "THR30_Blondie",
         "Bass": 0.32,
         "Drive": 0.69,
-        "Master": 0.1,
+        "Master": 0.57,
         "Mid": 0.48,
         "Treble": 0.59
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

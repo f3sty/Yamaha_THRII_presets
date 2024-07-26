@@ -11,7 +11,7 @@
         "@asset": "THR30_FLead",
         "Bass": 0.73,
         "Drive": 0.51,
-        "Master": 0.1,
+        "Master": 0.94,
         "Mid": 0.64,
         "Treble": 0.91
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.31,
-        "Thresh": 0.5
+        "Thresh": -50.0
       },
       "global": {
         "THRPresetParamTempo": 110

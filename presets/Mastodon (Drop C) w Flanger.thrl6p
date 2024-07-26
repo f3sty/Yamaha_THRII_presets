@@ -11,7 +11,7 @@
         "@asset": "THR10X_South",
         "Bass": 0.65,
         "Drive": 0.68,
-        "Master": 0.1,
+        "Master": 0.93,
         "Mid": 0.59,
         "Treble": 0.72
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.21,
-        "Thresh": 0.68
+        "Thresh": -32.0
       },
       "global": {
         "THRPresetParamTempo": 110

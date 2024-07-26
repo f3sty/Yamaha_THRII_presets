@@ -11,7 +11,7 @@
         "@asset": "THR10_Lead",
         "Bass": 1.0,
         "Drive": 0.59,
-        "Master": 0.1,
+        "Master": 0.95,
         "Mid": 1.0,
         "Treble": 1.0
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.2,
-        "Thresh": 0.8
+        "Thresh": -20.0
       },
       "global": {
         "THRPresetParamTempo": 110

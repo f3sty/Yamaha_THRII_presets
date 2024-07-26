@@ -11,7 +11,7 @@
         "@asset": "THR10_Brit",
         "Bass": 0.7,
         "Drive": 0.51,
-        "Master": 0.1,
+        "Master": 0.56,
         "Mid": 0.9,
         "Treble": 0.77
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.2,
-        "Thresh": 0.83
+        "Thresh": -17.0
       },
       "global": {
         "THRPresetParamTempo": 110

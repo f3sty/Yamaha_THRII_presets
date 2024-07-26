@@ -11,7 +11,7 @@
         "@asset": "THR10_Aco_Tube1",
         "Bass": 0.19,
         "Drive": 0.82,
-        "Master": 0.1,
+        "Master": 0.85,
         "Mid": 0.58,
         "Treble": 0.32
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

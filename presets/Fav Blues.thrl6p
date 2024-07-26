@@ -11,7 +11,7 @@
         "@asset": "THR30_JKBass2",
         "Bass": 0.42,
         "Drive": 0.93,
-        "Master": 0.1,
+        "Master": 0.94,
         "Mid": 0.26,
         "Treble": 0.45
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": 0
+        "Thresh": -100
       },
       "global": {
         "THRPresetParamTempo": 110

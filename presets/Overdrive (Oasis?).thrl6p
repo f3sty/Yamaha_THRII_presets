@@ -11,7 +11,7 @@
         "@asset": "THR10X_Brown2",
         "Bass": 0.5,
         "Drive": 0.95,
-        "Master": 0.1,
+        "Master": 0.45,
         "Mid": 0.45,
         "Treble": 0.45
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.41,
-        "Thresh": 0.3
+        "Thresh": -70.0
       },
       "global": {
         "THRPresetParamTempo": 110

@@ -11,7 +11,7 @@
         "@asset": "THR30_Stealth",
         "Bass": 0.71,
         "Drive": 0.7,
-        "Master": 0.1,
+        "Master": 0.62,
         "Mid": 0.73,
         "Treble": 0.39
       },
@@ -54,7 +54,7 @@
         "@asset": "noiseGate",
         "@enabled": true,
         "Decay": 0.14,
-        "Thresh": 0.66
+        "Thresh": -34.0
       },
       "global": {
         "THRPresetParamTempo": 110

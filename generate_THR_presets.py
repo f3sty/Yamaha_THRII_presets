@@ -154,7 +154,7 @@ with open(presets_file, newline='') as csvfile:
           d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = True
 
         # noise gate
-        d['data']['tone']['THRGroupGate']['Thresh'] = fn(row['Threshold'])
+        d['data']['tone']['THRGroupGate']['Thresh'] = (fn(row['Threshold'])* 100) - 100
         d['data']['tone']['THRGroupGate']['Decay'] = fn(row['Decay'])
         if fn(row['Threshold']) == 0:
             d['data']['tone']['THRGroupGate']['@enabled'] = False
