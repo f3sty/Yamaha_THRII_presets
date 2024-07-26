@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Zerkerf 2",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10_Brit",
+        "Bass": 0.4,
+        "Drive": 0.96,
+        "Master": 0.1,
+        "Mid": 0.41,
+        "Treble": 0.9
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 0
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.82,
+        "Sustain": 0.3
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.34,
+        "Bass": 0.49,
+        "Feedback": 0.35,
+        "Time": 0.29,
+        "Treble": 0.3
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "SmallRoom1",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Time": 0,
+        "Tone": 0
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.23,
+        "Thresh": 0.72
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "SweetSpot",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_South",
+        "Bass": 0.77,
+        "Drive": 0.12,
+        "Master": 0.1,
+        "Mid": 0.75,
+        "Treble": 0.53
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 6
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.84,
+        "Sustain": 0.22
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Bass": 0,
+        "Feedback": 0,
+        "Time": 0,
+        "Treble": 0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "StandardSpring",
+        "@enabled": true,
+        "@wetDry": 0.17,
+        "Time": 0,
+        "Tone": 0.37
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.32,
+        "Thresh": 0.32
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

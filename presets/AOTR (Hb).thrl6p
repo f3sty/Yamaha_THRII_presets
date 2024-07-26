@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "AOTR (Hb)",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_Mini",
+        "Bass": 0.41,
+        "Drive": 0.92,
+        "Master": 0.1,
+        "Mid": 0.55,
+        "Treble": 0.68
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 3
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.5,
+        "Sustain": 0.48
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "L6DigitalDelay",
+        "@enabled": true,
+        "@wetDry": 0.27,
+        "Bass": 0.33,
+        "Feedback": 0.3,
+        "Time": 0.15,
+        "Treble": 0.4
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "StandardSpring",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Time": 0,
+        "Tone": 0
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0,
+        "Thresh": 0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

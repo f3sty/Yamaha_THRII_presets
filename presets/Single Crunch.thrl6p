@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Single Crunch",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_SR101",
+        "Bass": 0.33,
+        "Drive": 0.49,
+        "Master": 0.1,
+        "Mid": 0.31,
+        "Treble": 0.63
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 12
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false,
+        "Level": 0,
+        "Sustain": 0
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.18,
+        "Bass": 0.43,
+        "Feedback": 0.26,
+        "Time": 0.41,
+        "Treble": 0.0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Time": 0,
+        "Tone": 0
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0,
+        "Thresh": 0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

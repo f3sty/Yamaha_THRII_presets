@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Bitey Special",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_DC30",
+        "Bass": 0.36,
+        "Drive": 0.51,
+        "Master": 0.1,
+        "Mid": 0.95,
+        "Treble": 0.94
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 3
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.6,
+        "Sustain": 0.35
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.25,
+        "Bass": 0.5,
+        "Feedback": 0.33,
+        "Time": 0.17,
+        "Treble": 0.29
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.11,
+        "Time": 0.15,
+        "Tone": 0.81
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0,
+        "Thresh": 0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Liquid Solo",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_Brown2",
+        "Bass": 0.54,
+        "Drive": 0.56,
+        "Master": 0.1,
+        "Mid": 0.65,
+        "Treble": 0.42
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 1
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false,
+        "Level": 0,
+        "Sustain": 0
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.31,
+        "Bass": 0.43,
+        "Feedback": 0.26,
+        "Time": 0.41,
+        "Treble": 0.0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.1,
+        "Time": 0.35,
+        "Tone": 0.67
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": 0.65
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

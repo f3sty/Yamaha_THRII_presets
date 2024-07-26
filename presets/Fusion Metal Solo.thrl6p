@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Fusion Metal Solo",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_Brown1",
+        "Bass": 0.53,
+        "Drive": 1.0,
+        "Master": 0.1,
+        "Mid": 0.48,
+        "Treble": 0.6
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 5
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.63,
+        "Sustain": 0.38
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Depth": 0,
+        "Feedback": 0,
+        "Freq": 0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.3,
+        "Bass": 0.5,
+        "Feedback": 0.34,
+        "Time": 0.44,
+        "Treble": 0.31
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.18,
+        "Time": 0.34,
+        "Tone": 0.77
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": 0.65
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

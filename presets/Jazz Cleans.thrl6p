@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Jazz Cleans",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_Deluxe",
+        "Bass": 0.76,
+        "Drive": 0.62,
+        "Master": 0.1,
+        "Mid": 0.61,
+        "Treble": 0.7
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 10
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.62,
+        "Sustain": 0.38
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.43,
+        "Depth": 0.23,
+        "Feedback": 0.12,
+        "Freq": 0.11,
+        "Pre": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.32,
+        "Bass": 0.5,
+        "Feedback": 0.34,
+        "Time": 0.39,
+        "Treble": 0.32
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.26,
+        "Time": 0.15,
+        "Tone": 0.73
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.6,
+        "Thresh": 0.6
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Guns 'N Roses Sweet Child O' Mine",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10_Modern",
+        "Bass": 0.4,
+        "Drive": 0.5,
+        "Master": 0.1,
+        "Mid": 0.6,
+        "Treble": 0.8
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 1
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.82,
+        "Sustain": 0.3
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "Phaser",
+        "@enabled": true,
+        "@wetDry": 0.38,
+        "Depth": 0,
+        "Feedback": 0.68,
+        "Freq": 0.05,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.28,
+        "Bass": 0.5,
+        "Feedback": 0.32,
+        "Time": 0.42,
+        "Treble": 0.0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.66,
+        "Time": 0.5,
+        "Tone": 0.67
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": 0.65
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

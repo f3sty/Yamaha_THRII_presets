@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Gilmour Sorrow THRii",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_Stealth",
+        "Bass": 0.28,
+        "Drive": 0.58,
+        "Master": 0.1,
+        "Mid": 0.65,
+        "Treble": 0.57
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 1
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.62,
+        "Sustain": 0.5
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "Phaser",
+        "@enabled": true,
+        "@wetDry": 0.14,
+        "Depth": 0,
+        "Feedback": 0.22,
+        "Freq": 0.0,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "L6DigitalDelay",
+        "@enabled": true,
+        "@wetDry": 0.3,
+        "Bass": 0.22,
+        "Feedback": 0.3,
+        "Time": 0.45,
+        "Treble": 0.7
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.35,
+        "Time": 0.2,
+        "Tone": 0.6
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": 0.65
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

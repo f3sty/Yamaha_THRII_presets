@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Chill Echo",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_Mini",
+        "Bass": 0.52,
+        "Drive": 0.33,
+        "Master": 0.1,
+        "Mid": 0.45,
+        "Treble": 0.62
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 14
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.55,
+        "Sustain": 0.3
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.41,
+        "Depth": 0.2,
+        "Feedback": 0.12,
+        "Freq": 0.03,
+        "Pre": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.2,
+        "Bass": 0.53,
+        "Feedback": 0.41,
+        "Time": 0.38,
+        "Treble": 0.12
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.5,
+        "Time": 0.15,
+        "Tone": 0.5
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.42,
+        "Thresh": 0.55
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

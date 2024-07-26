@@ -1,0 +1,208 @@
+Preset,Source,Amp,Mode,Gain,Master,Bass,Mid,Treble,Cabinet,Guitar,Audio,Sustain,Level,Threshold,Decay,Type,Speed,Depth,Pre,Feedback,Mix,E_Type,E_Time,E_Feedback,E_Bass,E_Treble,E_Mix,R_Type,Reverb,R_Decay,R_Pre,R_Tone,R_Mix,notes
+EarlyVH,Factory,Classic,Special,52,68,40,69,74,Brown 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,Tape,42,34,50,32,21,Plate,NA,23,31,53,19,
+90s Brown,Factory,Modern,Hi Gain,63,66,61,25,33,Brown 4x12,0,0,NA,NA,65,20,Chorus,14,12,47,25,37,Digital Delay,42,38,17,44,30,Hall,NA,21,41,53,14,
+7str Riff,Factory,Modern,Special,36,70,55,34,78,Fuel 4x12,0,0,NA,NA,59,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,31,16,65,7,
+Crispy Crunch,Factory,Classic,Hi Gain,38,62,47,50,65,American 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+That Humbucker Dude,Factory,Classic,Special,60,63,41,50,68,Vintage 4x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Paisley,Factory,Modern,Crunch,61,67,42,69,55,Boutique 2x12,0,0,51,62,NA,NA,,NA,NA,NA,NA,NA,Tape,15,38,55,30,34,NA,NA,NA,NA,NA,NA,
+Plexity,Factory,Classic,Lead,90,89,53,71,54,British 4x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Room,NA,23,10,35,8,
+Lime Lighter,Factory,Boutique,Hi Gain,36,56,50,22,45,Vintage 4x12,0,0,NA,NA,65,20,Chorus,13,23,50,12,35,Tape,44,26,50,32,18,Plate,NA,15,30,86,10,
+Silver Mountain,Factory,Boutique,Lead,100,100,61,69,51,Vintage 4x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,15,30,86,7,
+Experienced Rhythm,Factory,Boutique,Lead,69,57,32,48,59,Vintage 4x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Room,NA,12,5,59,9,
+Emerald Clean,Factory,Classic,Crunch,45,68,64,49,51,British 2x12,0,0,NA,NA,NA,NA,Chorus,13,29,57,12,38,Digital Delay,55,40,20,45,39,Hall,NA,58,17,43,61,
+101 West Bound,Factory,Modern,Clean,54,88,38,40,50,California 1x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Tape,41,26,43,0,18,NA,NA,NA,NA,NA,NA,
+Cranked Mini Box,Factory,Boutique,Crunch,100,100,49,49,51,Boutique 1x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+He Came to Rock,Factory,Boutique,Special,70,74,53,6,87,Fuel 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+FiftyOneFiftyTime,Factory,Modern,Hi Gain,30,67,39,29,45,Brown 4x12,0,0,NA,NA,NA,NA,Chorus,11,26,50,11,30,Digital Delay,39,35,49,40,26,NA,NA,NA,NA,NA,NA,
+It Does Djent,Factory,Modern,Special,50,67,36,74,50,American 4x12,0,0,NA,NA,59,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Sunrise Lead,Factory,Modern,Hi Gain,63,67,36,67,61,Vintage 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,Digital Delay,39,38,25,37,35,Hall,NA,28,20,45,18,
+Twang Rhythm,Factory,Boutique,Crunch,50,79,52,67,40,Boutique 1x12,0,0,54,62,NA,NA,,NA,NA,NA,NA,NA,Tape,13,38,55,30,36,NA,NA,NA,NA,NA,NA,
+Funky Rhythm,Factory,Classic,Clean,58,52,74,45,63,American 1x12,0,0,37,62,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Know Your Friend,Factory,Boutique,Hi Gain,61,56,41,32,51,British 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Hamamatsu Blues,Factory,Boutique,Crunch,64,51,35,67,56,Yamaha 2x12,0,0,NA,NA,NA,NA,,NA,NA,NA,NA,NA,Tape,21,26,43,0,23,Spring,25,NA,NA,50,18,
+Liquid Solo,Factory,Modern,Hi Gain,56,72,54,65,42,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,Tape,41,26,43,0,31,Hall,NA,35,65,67,10,
+Sweet Place,Factory,Boutique,Clean,78,57,64,41,30,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,11,17,50,31,22,Room,NA,24,24,50,8,
+Rainy Day,Factory,Boutique,Lead,89,80,62,43,65,Boutique 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Room,NA,24,24,50,8,
+Class A Chord,Factory,Classic,Crunch,35,100,62,42,87,Boutique 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,11,NA,NA,100,7,
+Tremolo Chord,Factory,Classic,Clean,67,64,66,54,76,American 1x12,0,0,NA,NA,NA,NA,Tremolo,34,70,NA,NA,41,NA,NA,NA,NA,NA,NA,Spring,11,NA,NA,100,14,
+High Gain 800,Factory,Modern,Lead,71,71,67,40,76,American 4x12,0,0,NA,NA,83,20,NA,NA,NA,NA,NA,NA,Tape,25,26,43,0,15,Plate,NA,23,21,50,7,
+American Clean Combo,Factory,Classic,Clean,56,68,59,63,53,American 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Fat Solo,Factory,Boutique,Hi Gain,58,76,44,72,27,Fuel 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,Tape,39,32,50,26,19,NA,NA,NA,NA,NA,NA,
+Wet Solo,Factory,Modern,Special,62,75,38,77,50,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,Digital Delay,36,29,24,40,36,Hall,NA,61,41,33,34,
+Single Crunch,Factory,Modern,Crunch,49,73,33,31,63,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,41,26,43,0,18,NA,NA,NA,NA,NA,NA,
+Following Echo,Factory,Modern,Crunch,54,75,38,40,50,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Digital Delay,39,21,23,55,48,Plate,NA,23,21,50,7,
+Solid Chorus,Factory,Modern,Flat,75,84,38,40,58,NA,0,0,NA,NA,NA,NA,Chorus,7,32,50,18,50,Digital Delay,39,35,60,41,36,Hall,NA,37,37,35,59,
+Big Box,Factory,Modern,Hi Gain,43,72,54,43,73,Juicy 4x12,0,0,NA,NA,65,20,Flanger,3,43,NA,NA,25,NA,NA,NA,NA,NA,NA,Plate,NA,21,29,43,3,
+Sterno Canned Heat,Factory,Modern,Flat,53,100,0,51,30,NA,0,0,33,70,NA,NA,Chorus,2,67,100,61,50,Tape,39,35,50,25,25,NA,NA,NA,NA,NA,NA,
+Old School Bass,Factory,Boutique,Bass,73,53,47,39,76,NA,0,0,46,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Finger Bass,Factory,Classic,Bass,61,68,41,69,35,NA,0,0,50,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Rock Picking Bass,Factory,Modern,Bass,70,61,54,23,87,NA,0,0,55,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Acoustic 1,Factory,Classic,Acoustic,65,82,55,48,50,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,43,48,35,59,
+Acoustic 2,Factory,Boutique,Acoustic,54,88,38,40,50,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,43,48,35,59,
+Acoustic 3,Factory,Modern,Acoustic,82,85,19,58,32,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,43,48,35,59,
+Banjo,Yamaha Musicians,Classic,Clean,77,69,0,99,4,American 4x10,0,0,43,51,70,16,NA,NA,NA,NA,NA,NA,Tape,0,44,0,4,38,Plate,NA,6,7,57,33,
+Crossroads,Yamaha Musicians,Boutique,Hi Gain,69,91,71,50,13,Fuel 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Crunch Something from Nothing,Yamaha Musicians,Boutique,Crunch,82,100,40,65,75,Boutique 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,39,NA,NA,36,14,
+HG Alive -Pearl Jam,Yamaha Musicians,Modern,Hi Gain,80,75,45,60,65,Brown 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,17,10,61,44,
+HG Enter Sandman,Yamaha Musicians,Modern,Special,100,60,60,60,40,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Intro Enter Sandman,Yamaha Musicians,Classic,Clean,70,80,20,60,65,American 1x12,0,0,NA,NA,NA,NA,Chorus,11,21,50,13,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Intro Something from Nothing,Yamaha Musicians,Boutique,Clean,70,80,45,65,70,California 1x12,0,0,NA,NA,NA,NA,Tremolo,25,30,NA,NA,42,Tape,39,33,50,30,28,Plate,NA,15,30,79,15,
+Money for Nothing,Yamaha Musicians,Boutique,Special,100,100,88,0,24,Vintage 4x12,0,0,NA,NA,75,34,NA,NA,NA,NA,NA,NA,Tape,26,50,60,4,28,Spring,5,NA,NA,47,41,
+Passenger,Yamaha Musicians,Classic,Crunch,93,87,38,50,45,British 4x12,0,0,43,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Room,NA,50,50,50,33,
+Thrill,Yamaha Musicians,Classic,Crunch,89,73,59,71,13,Boutique 2x12,0,0,30,53,60,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,20,NA,NA,50,30,
+ACDC,guitarpatches.com,Boutique,Hi Gain,70,50,45,70,85,British 4x12,0,0,40,42,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+All Your Love,toneshare.io,Boutique,Special,49,21,94,53,49,Juicy 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,15,10,50,50,
+Chill Echo,guitarpatches.com,Boutique,Crunch,33,98,52,45,62,American 4x10,0,0,30,55,55,42,Chorus,3,20,50,12,41,Tape,38,41,53,12,20,Hall,NA,15,10,50,50,
+Claptons Cranked Fender Champ,toneshare.io,Boutique,Crunch,100,30,0,100,0,American 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Claude Clean,guitarpatches.com,Classic,Clean,100,17,8,55,43,American 1x12,0,0,31,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,49,51,50,11,
+Claude Crunch,guitarpatches.com,Classic,Crunch,100,17,7,16,100,Boutique 2x12,0,0,54,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,14,NA,NA,29,9,
+Fav Blues,toneshare.io,Modern,Bass,93,94,42,26,45,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,25,19,39,26,18,Spring,22,NA,NA,57,8,
+Fuzzy Blues,toneshare.io,Modern,Lead,100,100,42,81,98,British 4x12,0,0,NA,NA,83,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,16,10,63,40,
+JCM800,guitarpatches.com,Modern,Lead,71,71,25,45,65,Yamaha 2x12,0,0,30,31,83,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Joe's Drivin',toneshare.io,Classic,Crunch,70,100,5,39,75,Mods 4x12,0,0,60,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,40,10,21,82,
+Jonz MF Hard Rock Metal V2,toneshare.io,Boutique,Hi Gain,63,97,38,71,87,Mods 4x12,0,0,57,27,55,32,NA,NA,NA,NA,NA,NA,Tape,29,21,17,86,29,Plate,NA,40,38,32,25,
+Led Zeppelin 2 Tone,toneshare.io,Boutique,Lead,100,100,83,72,95,British Blues 2x12,0,0,4,49,NA,NA,Flanger,33,24,NA,NA,19,Tape,13,50,88,20,22,Spring,78,NA,NA,19,15,
+Plexi AC DC,toneshare.io,Classic,Lead,33,88,100,98,82,British Blues 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,10,NA,NA,11,12,
+Slash Appetite Tone,toneshare.io,Modern,Special,42,76,100,100,77,Vintage 4x12,0,0,NA,NA,51,20,NA,NA,NA,NA,NA,NA,Tape,25,26,43,0,15,Hall,NA,50,50,48,29,
+SRV,guitarpatches.com,Classic,Crunch,50,100,27,100,76,American 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,9,27,50,25,27,Plate,NA,20,36,31,14,
+SRV's 60's Fender Super Reverb,toneshare.io,Classic,Clean,70,100,50,100,70,American 4x12,0,0,8,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,100,NA,NA,50,10,
+SRV's Pair of Twin Reverbs,toneshare.io,Classic,Clean,100,100,60,100,80,American 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,30,NA,NA,30,15,
+Sweet Plexi,guitarpatches.com,Boutique,Crunch,50,85,72,30,82,American 1x12,0,0,10,80,NA,NA,Chorus,13,17,50,15,33,Tape,39,33,50,30,28,Plate,NA,15,30,78,16,
+Time Solo 2,guitarpatches.com,Modern,Special,58,35,47,34,60,Juicy 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,40,45,41,59,34,Hall,NA,47,48,60,67,
+Warm Breakup,guitarpatches.com,Classic,Crunch,80,80,32,33,50,Fuel 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,40,NA,NA,70,23,
+AOTR (Hb),toneshare.io,Boutique,Crunch,92,76,41,55,68,Vintage 4x12,0,0,48,50,NA,NA,NA,NA,NA,NA,NA,NA,Digital Delay,15,30,33,40,27,NA,NA,NA,NA,NA,NA,
+Baby Blue,toneshare.io,Classic,Crunch,48,61,63,71,75,Boutique 2x12,0,0,22,72,NA,NA,Flanger,3,20,NA,NA,30,Tape,48,62,50,32,37,Hall,NA,94,50,38,41,
+Behind Blue Eyes,toneshare.io,Modern,Acoustic,49,52,58,51,61,NA,0,0,NA,NA,NA,NA,Chorus,10,26,50,11,41,Tape,39,34,50,32,32,NA,NA,NA,NA,NA,NA,
+Cinnamon Girl,toneshare.io,Modern,Bass,100,49,45,82,29,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,11,NA,NA,100,7,
+Clean Boutique,toneshare.io,Boutique,Clean,69,96,43,47,37,Boutique 2x12,0,0,NA,NA,NA,NA,Chorus,3,20,27,11,19,NA,NA,NA,NA,NA,NA,Plate,NA,28,11,41,11,
+Dokken GL High Delay,toneshare.io,Modern,Hi Gain,40,90,28,65,57,Mods 4x12,0,0,50,62,60,23,Phaser,10,NA,NA,22,14,Digital Delay,45,30,22,70,30,Plate,NA,20,36,60,35,
+Eruption,toneshare.io,Classic,Special,56,75,58,46,100,Vintage 4x12,0,0,NA,NA,65,20,Chorus,49,27,20,11,32,Digital Delay,27,37,10,40,14,Plate,NA,17,0,25,43,
+Gardenia,toneshare.io,Classic,Lead,65,71,50,100,50,British 4x12,0,0,25,80,70,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+GG Test Run,toneshare.io,Boutique,Special,49,91,44,59,85,Vintage 4x12,0,0,34,68,37,32,NA,NA,NA,NA,NA,NA,Tape,30,37,14,64,26,Plate,NA,43,50,78,27,
+Headmasters Ritual,toneshare.io,Classic,Crunch,45,68,64,49,51,British 2x12,0,0,NA,NA,NA,NA,Chorus,13,29,57,12,38,Digital Delay,39,39,10,40,27,Hall,NA,58,17,43,61,
+Indie Clean/Killer Clean,toneshare.io,Boutique,Clean,25,100,90,90,40,Boutique 1x12,0,0,27,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,39,NA,NA,50,40,
+Jonz MF Style Hard Rock Metal,toneshare.io,Boutique,Hi Gain,51,94,73,64,91,American 4x12,0,0,54,47,50,31,NA,NA,NA,NA,NA,NA,Tape,22,44,50,50,25,Plate,NA,34,38,61,30,
+Lemmy's Perfect Day,toneshare.io,Classic,Lead,24,49,48,93,69,British 4x12,0,0,100,88,NA,NA,Chorus,11,25,50,12,42,NA,NA,NA,NA,NA,NA,Hall,NA,48,10,19,85,
+Linkin Park Drop C#/Muse,toneshare.io,Boutique,Special,67,96,83,72,100,American 4x12,0,0,28,55,83,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,15,30,50,9,
+Murloc's Gizzard,toneshare.io,Modern,Lead,51,56,70,90,77,British 4x12,0,0,NA,NA,83,20,NA,NA,NA,NA,NA,NA,Tape,13,67,48,31,38,Plate,NA,26,22,78,14,
+Nunograffitti,toneshare.io,Classic,Hi Gain,57,100,61,36,60,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,40,NA,NA,36,16,
+Orange Glow/Bluesy Glow,toneshare.io,Classic,Crunch,61,58,28,91,100,Mods 4x12,0,0,56,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,28,10,42,60,
+Overdrive (Oasis?),toneshare.io,Modern,Hi Gain,95,45,50,45,45,Brown 4x12,0,0,10,100,30,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,10,10,10,5,
+Permabadtune,toneshare.io,Classic,Clean,50,97,64,51,54,American 1x12,0,0,NA,NA,NA,NA,Chorus,21,73,77,0,69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Qotsa,toneshare.io,Modern,Special,70,79,67,99,72,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Sparkly Emo Maths,toneshare.io,Classic,Clean,38,45,50,49,62,American 1x12,0,0,NA,NA,22,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,15,50,51,19,
+SRV Texas Flood,toneshare.io,Classic,Lead,24,100,86,37,63,American 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,27,NA,NA,34,15,
+Strat Clean 1 WHP,toneshare.io,Classic,Clean,50,80,50,40,59,American 4x10,0,0,40,80,35,60,Chorus,15,12,20,50,20,Tape,22,31,50,26,10,Spring,25,NA,NA,50,4,
+Strat Numb WHP/Suhr Numb,toneshare.io,Classic,Lead,50,80,49,100,35,Boutique 1x12,0,0,35,80,75,60,Chorus,10,26,50,11,35,Tape,93,38,55,30,34,Spring,25,NA,NA,50,8,
+Strat Plexi WHP,toneshare.io,Classic,Lead,50,77,49,72,50,Vintage 4x12,0,0,30,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,37,NA,NA,34,11,
+The Strokes Is This It,toneshare.io,Boutique,Lead,70,51,18,55,69,Vintage 4x12,0,0,21,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,25,50,50,13,
+Chill,guitarpatches.com,Boutique,Crunch,33,98,52,45,62,American 4x10,0,0,30,55,55,42,Chorus,3,20,50,12,41,NA,NA,NA,NA,NA,NA,Hall,NA,15,10,50,50,
+Nothing Else Matters,guitarpatches.com,Classic,Acoustic,50,100,55,90,65,NA,0,0,NA,NA,NA,NA,Chorus,5,35,10,30,50,Tape,70,30,50,35,25,Plate,NA,15,30,70,30,
+Surfin' Guitar,guitarpatches.com,Classic,Crunch,24,90,30,59,60,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,2,NA,NA,85,67,
+Sweet Melody,guitarpatches.com,Boutique,Lead,65,56,33,31,41,Mods 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,40,20,42,47,
+Welcome to the Jungle Intro,guitarpatches.com,Classic,Special,37,33,57,51,71,Vintage 4x12,0,0,NA,NA,NA,NA,Chorus,15,10,50,11,100,Tape,35,21,17,16,27,Plate,NA,70,50,50,46,
+ACDC Youtube,YouTube 3:57,Boutique,Crunch,23,100,100,100,100,Mods 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,14,28,68,33,How To Sound Like AC/DC with the Yamaha THR30II - YouTube
+Super Clean,YouTube 9:08,Classic,Clean,67,77,63,44,63,California 1x12,0,0,35,66,28,23,Chorus,7,27,50,88,32,Tape,32,33,50,43,27,Plate,NA,50,50,50,28,How to Make 5 Amazing Clean Tones with the Yamaha THRII - YouTube
+Blues Clean,YouTube 13:26,Boutique,Clean,91,61,65,64,50,American 1x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,Tape,11,25,50,30,42,Spring,25,NA,NA,50,25,
+Modern Clean,YouTube 21:59,Modern,Clean,65,48,66,42,65,Mods 4x12,0,0,NA,NA,60,60,Chorus,12,18,50,14,13,Tape,47,46,50,25,18,Hall,NA,27,18,63,38,
+Shred Riffs Special,YouTube 26:39,Classic,Crunch,84,74,52,44,50,Boutique 2x12,0,0,37,71,60,60,Chorus,10,27,50,11,24,Tape,39,34,50,24,31,Plate,NA,15,30,73,12,
+Shred Riffs Special 2,YouTube 30:08,Boutique,Crunch,58,74,52,44,50,American 1x12,0,0,37,71,60,60,Phaser,6,NA,NA,44,32,Tape,39,34,50,24,31,Plate,NA,15,30,73,31,
+Djent,YouTube 1:39,Modern,Hi Gain,81,76,71,42,76,Brown 4x12,0,0,38,63,76,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5 Hard Rock and Metal Tones for the Yamaha THRII - YouTube
+Brutal 2,YouTube 7:28,Modern,Special,79,73,71,48,66,Fuel 4x12,0,0,NA,NA,66,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Classic Metal,YouTube 9:23,Classic,Hi Gain,85,78,53,81,65,British 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Hardcore,YouTube 15:26,Boutique,Special,100,80,53,81,65,Fuel 4x12,0,0,46,60,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Advanced Djent,YouTube 19:42,Modern,Special,80,83,71,50,78,Juicy 4x12,0,0,38,63,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Jazz Cleans,YouTube 1:56,Classic,Clean,62,48,76,61,70,Boutique 2x12,0,0,38,62,60,60,Chorus,11,23,50,12,43,Tape,39,34,50,32,32,Plate,NA,15,30,73,26,5 Amazing Guitar Tones For the Yamaha THR30W - YouTube
+Crunch,YouTube 7:26,Classic,Crunch,96,59,52,45,64,British 4x12,0,0,64,67,NA,NA,Chorus,23,35,50,11,10,Tape,42,35,30,75,30,Hall,NA,50,50,50,41,
+Fusion Solo,YouTube 13:25,Modern,Special,70,62,71,73,39,Mods 4x12,0,0,38,63,66,14,NA,NA,NA,NA,NA,NA,Tape,45,34,60,32,20,Plate,NA,34,34,70,12,
+Metal Rythm Djent,YouTube 17:55,Modern,Hi Gain,51,63,71,42,76,Brown 4x12,0,0,38,63,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Bass,YouTube 20:55,Boutique,Bass,51,63,71,42,76,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Elmo 1 Clean,YouTube 1:20,Boutique,Clean,49,100,36,60,69,British 4x12,0,0,36,47,NA,NA,NA,NA,NA,NA,NA,NA,Tape,39,38,50,39,24,Hall,NA,73,29,40,24,Yamaha THR 10II - Review Part II - YouTube
+Elmo 2 Crunch,YouTube 3:57,Modern,Crunch,48,100,18,60,69,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,53,26,50,8,32,NA,NA,NA,NA,NA,NA,
+Elmo 3 Lead,YouTube 5:06,Modern,Lead,66,100,18,69,81,Vintage 4x12,0,0,NA,NA,94,20,NA,NA,NA,NA,NA,NA,Tape,51,30,50,0,30,NA,NA,NA,NA,NA,NA,
+Elmo 4 Hi Gain,YouTube 7:23,Boutique,Hi Gain,83,100,18,66,74,Vintage 4x12,0,0,NA,NA,83,20,NA,NA,NA,NA,NA,NA,Tape,48,40,50,0,24,NA,NA,NA,NA,NA,NA,
+Elmo 5 Special,YouTube 8:43,Modern,Special,66,100,18,60,69,American 4x12,0,0,NA,NA,65,20,Chorus,3,20,50,12,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+SlipKnot Drop B Tuning,Reddit r/YamahaTHR,Modern,Special,23,74,37,36,66,American 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,https://www.reddit.com/r/YamahaTHR/comments/ucurc6/thr10ii_tones_led_zeppelin_creedence_clearwater/i73bv05/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3
+All Purpose VH Patch,YouTube 6:03,Classic,Special,30,100,100,100,100,Brown 4x12,0,0,70,83,65,20,Chorus,6,32,100,11,30,NA,NA,NA,NA,NA,NA,Plate,NA,57,33,87,32,NEW Yamaha THR30II Wireless 'Black' | Van Halen Tone Presets & My THR Amps Story - YouTube
+My Acoustic Patch,YouTube 7:44,Classic,Flat,51,100,50,100,100,NA,0,0,20,75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,70,28,76,64,
+All Purpose AC/DC Patch,YouTube 8:16,Boutique,Crunch,50,100,100,100,100,Mods 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,70,21,100,100,24,Plate,NA,57,33,87,32,
+Clean Patch,YouTube 8:30,Classic,Clean,55,100,17,41,100,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,57,50,100,32,
+My Other Rock Patch,YouTube 8:45,Modern,Hi Gain,41,100,100,100,100,Brown 4x12,0,0,NA,NA,82,20,Chorus,6,32,100,11,34,Tape,56,13,100,99,24,Plate,NA,57,31,87,16,
+Van Halen 70's 80's,YouTube 2:46,Classic,Special,35,100,100,100,100,Brown 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,64,44,87,32,Van Halen 70s 80s Inspired Tone Settings for Yamaha THR30II - YouTube
+AC/DC General Patch,YouTube 3:58,Boutique,Crunch,23,100,100,100,100,Mods 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,14,28,68,33,How To Sound Like AC/DC with the Yamaha THR30II - YouTube
+Van Halen 90's,YouTube 6:06,Modern,Hi Gain,41,100,100,100,100,Brown 4x12,0,0,NA,NA,82,20,Chorus,6,32,100,11,34,Tape,56,13,100,99,24,Plate,NA,57,31,87,16,Van Halen 90s Guitar Sound Settings on Yamaha THR30II - YouTube
+Superlative,YouTube 2:01,Classic,Clean,100,20,40,84,68,Mods 4x12,0,0,21,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,17,NA,NA,84,10,Yamaha THR30 ii Country Tone Settings (with screen shots and examples on a '52 Telecaster) - YouTube
+Bitey Special,YouTube 3:34,Classic,Crunch,51,59,36,95,94,Vintage 4x12,0,0,35,60,NA,NA,NA,NA,NA,NA,NA,NA,Tape,17,33,50,29,25,Plate,NA,15,30,81,11,
+SweetSpot,YouTube 4:48,Boutique,Special,12,78,77,75,53,Mods 4x12,0,0,22,84,32,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,41,NA,NA,37,17,
+Serendipitous,YouTube 6:25,Boutique,Lead,38,81,39,7,38,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,38,NA,NA,35,13,
+Greg Koch?,YouTube 6:54,Boutique,Lead,38,89,42,2,36,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,38,NA,NA,35,13,
+This Tone is Disgusting,YouTube 11:41,Classic,Special,30,100,100,100,100,Brown 4x12,0,0,70,83,65,20,Chorus,6,32,100,11,30,NA,NA,NA,NA,NA,NA,Plate,NA,57,33,87,32,This Tone Is Disgusting - Lick Tutorial + Yamaha THR30II Settings - YouTube
+Best Distortion (Everlong & others),guitarpatches.com,Classic,Hi Gain,74,77,26,39,96,American 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Tone 1 Clean,YouTube 8:45,Modern,Clean,61,82,34,46,57,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,80,24,50,0,27,Plate,NA,35,38,54,35,THR 30II - More than your third amp? - YouTube
+Tone 2 Crunch,YouTube 8:48,Classic,Crunch,78,67,26,40,52,British 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,32,38,31,19,
+Tone 3 Lead,YouTube 15:58,Classic,Lead,100,100,25,62,71,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,59,26,50,0,31,Spring,25,NA,NA,50,22,
+Tone 4 Bass,YouTube 8:54,Classic,Bass,60,43,75,50,30,NA,0,0,19,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Tone 5 Acoustic,YouTube 8:56,Modern,Acoustic,40,79,26,15,63,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,27,31,19,10,
+Plexi Sh_t,YouTube 5:28,Classic,Lead,33,88,100,98,82,British 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,10,NA,NA,11,12,YAMAHA THR10 ii PLEXI TONE - YouTube
+YouTube Clean,YouTube,Modern,Clean,67,49,50,49,48,California 1x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,32,34,50,32,31,Hall,NA,50,50,50,5,
+Zerkerf 1,Youtube 0:10,Boutique,Hi Gain,98,57,40,41,90,Fuel 4x12,0,0,68,67,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,37,24,50,50,Yamaha THR 10 II ! - YouTube
+Intro Enter Sandman 2,Youtube 0:27,Classic,Clean,70,80,20,60,65,American 1x12,0,0,NA,NA,NA,NA,Chorus,11,21,50,13,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Hi Gain 800,Youtube 0:51,Modern,Special,100,57,40,26,95,Boutique 1x12,0,0,30,82,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,23,21,50,7,
+Experienced Rhythm 2,Youtube 2:14,Boutique,Lead,69,57,32,48,59,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Room,NA,12,5,59,9,
+Zerkerf 2,Youtube 3:24,Modern,Lead,96,57,40,41,90,British 4x12,0,0,30,82,72,23,NA,NA,NA,NA,NA,NA,Tape,29,35,49,30,34,NA,NA,NA,NA,NA,NA,
+My Go To,Reddit r/YamahaTHR,Classic,Clean,75,50,50,90,100,Brown 4x12,0,0,50,85,NA,NA,Tremolo,30,85,NA,NA,40,NA,NA,NA,NA,NA,NA,Hall,NA,75,0,0,50,(1) THR30II - Just got one. How do I make this sound good? : YamahaTHR (reddit.com)
+Jerry Garcia,Reddit r/YamahaTHR,Classic,Clean,77,74,0,81,67,American 4x10,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Jerry Garcia Settings or Patch? : YamahaTHR (reddit.com)
+My Sound,Reddit r/YamahaTHR,Classic,Crunch,45,100,44,42,46,Boutique 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,38,NA,NA,35,13,This is my sound - what’s yours? : YamahaTHR (reddit.com)
+Somewhere in Time Distortion,Reddit r/YamahaTHR,Classic,Hi Gain,100,28,100,100,100,American 4x12,0,0,NA,NA,65,20,Chorus,5,21,31,46,55,NA,NA,NA,NA,NA,NA,Hall,NA,40,10,24,76,Somewhere In time Sound Patch (THR10II) : YamahaTHR (reddit.com)
+Holdsworth Clean,YouTube 5:06,Classic,Clean,37,100,77,75,52,Boutique 2x12,0,0,33,71,78,25,Chorus,10,27,50,11,40,Tape,39,34,50,67,30,Plate,NA,34,34,78,25,How to Download and Load Presets onto your Yamaha THRii Amp - YouTube
+Midgain Lead,YouTube 5:36,Classic,Crunch,100,69,61,43,71,Boutique 2x12,0,0,33,66,83,24,Chorus,10,27,50,11,17,Tape,39,34,50,32,32,Plate,NA,15,30,70,19,
+Fusion Solo 2,YouTube 6:04,Classic,Special,82,74,67,50,65,Vintage 4x12,0,0,NA,NA,86,10,NA,NA,NA,NA,NA,NA,Tape,44,35,50,34,27,NA,NA,NA,NA,NA,NA,
+Djent Brutality,YouTube 7:01,Classic,Hi Gain,76,69,39,64,65,American 4x12,0,0,38,63,77,77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Fusion Metal Solo,YouTube 7:29,Classic,Special,100,81,53,48,60,Juicy 4x12,0,0,38,63,65,20,NA,NA,NA,NA,NA,NA,Tape,44,34,50,31,30,Plate,NA,34,34,77,18,
+Dorothy Silver,YouTube 1:11,Classic,Crunch,28,84,100,81,82,Brown 4x12,0,0,28,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,42,NA,NA,41,19,Fender Super Reverb tones on a Yamaha THR 30ii (pics of 3 updated settings) - YouTube
+Dorothy Breakup,YouTube 3:36,Classic,Crunch,64,64,82,52,79,Brown 4x12,0,0,35,68,NA,NA,NA,NA,NA,NA,NA,NA,Tape,32,21,60,0,17,Spring,35,NA,NA,45,12,
+Have a Scoop,YouTube 5:10,Classic,Clean,45,94,41,18,70,Fuel 4x12,0,0,21,89,56,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Boutique Crunch Channel,YouTube 0:09,Boutique,Crunch,81,64,50,50,50,Boutique 1x12,0,0,33,100,NA,NA,NA,NA,NA,NA,NA,NA,Tape,39,35,50,34,19,Hall,NA,38,10,27,73,My Recording Setup and Presets for Yamaha THR 30 - YouTube
+Boutique Lead Channel,YouTube 0:33,Boutique,Lead,67,59,53,67,82,Mods 4x12,0,0,33,100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,38,10,27,73,
+Guns 'N Roses Sweet Child O' Mine,YouTube 0:01,Classic,Hi Gain,50,50,40,60,80,American 4x12,0,0,30,82,65,20,Phaser,5,NA,NA,68,38,Tape,42,32,50,0,28,Hall,NA,50,25,67,66,[Yamaha THR Series] Guns 'N Roses - Sweet Child O' Mine🎸│THR Tone Archive - YouTube
+Pink Floyd Money,YouTube 0:01,Boutique,Hi Gain,71,59,38,67,65,Fuel 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,44,52,20,40,32,Spring,47,NA,NA,50,35,[Yamaha THR Series] Pink Floyd - Money🎸│THR Tone Archive - YouTube
+AC/DC Highway to Hell,YouTube 3:31,Classic,Lead,59,95,100,100,100,Brown 4x12,0,0,80,40,80,20,Chorus,14,10,50,29,22,Tape,32,39,83,82,34,Plate,NA,50,50,50,49,AC/DC Highway to Hell - YAMAHA THR 30II W Setting FREE. Full Cover. Luis Slash - YouTube
+Eric Clapton Layla,YouTube 0:01,Boutique,Crunch,92,39,50,50,50,American 1x12,0,0,71,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,25,NA,NA,50,35,[Yamaha THR Series] Eric Clapton - Layla🎸│THR Tone Archive - YouTube
+Lenny Kravitz Always On The Run,YouTube 0:01,Classic,Hi Gain,22,60,8,64,48,Vintage 4x12,0,0,13,83,NA,NA,Flanger,3,20,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,[Yamaha THR Series] Lenny Kravitz - Always On The Run🎸│THR Tone Archive - YouTube
+Metal Tone with Clarity,Reddit r/YamahaTHR,Modern,Hi Gain,44,65,50,63,65,American 4x12,0,0,55,65,65,9,NA,NA,NA,NA,NA,NA,Digital Delay,1,0,50,50,35,Plate,NA,27,17,32,9,Metal tone with clarity : YamahaTHR (reddit.com)
+Gilmour Sorrow THRii,Reddit r/YamahaTHR,Modern,Special,58,47,28,65,57,American 4x12,0,0,50,62,65,20,Phaser,0,NA,NA,22,14,Digital Delay,45,30,22,70,30,Plate,NA,20,36,60,35,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Gilmour Comfortably Numb THRii,Reddit r/YamahaTHR,Classic,Hi Gain,29,58,28,65,57,American 4x12,0,0,50,62,65,20,Chorus,3,20,50,12,50,Digital Delay,45,30,22,70,30,Hall,NA,50,50,50,50,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Gilmour Shine On Tou Crazy Diamond THRii,Reddit r/YamahaTHR,Modern,Crunch,40,90,28,65,57,California 1x12,0,0,50,62,60,60,Phaser,0,NA,NA,22,14,Digital Delay,45,30,22,70,30,Plate,NA,20,36,60,35,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Gilmour Wish You Were Here,Reddit r/YamahaTHR,Boutique,Acoustic,82,85,19,58,32,NA,0,0,30,82,NA,NA,NA,NA,NA,NA,NA,NA,Tape,34,38,61,41,36,Plate,NA,50,50,50,50,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Knopfler Brothers In Arms,Reddit r/YamahaTHR,Modern,Special,29,58,28,65,57,American 4x12,0,0,50,62,65,20,Chorus,3,20,50,12,50,Digital Delay,45,30,22,70,30,Hall,NA,50,50,50,50,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Metallica Enter Sandman,Reddit r/YamahaTHR,Classic,Clean,70,80,20,60,65,American 1x12,0,0,NA,NA,NA,NA,Chorus,11,21,50,13,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Slash Give In To Me THRii,Reddit r/YamahaTHR,Classic,Hi Gain,29,58,28,65,57,American 4x12,0,0,NA,NA,65,20,Chorus,3,20,50,12,50,Digital Delay,45,30,22,70,30,Hall,NA,50,50,50,50,Yamaha THR ii Presets Exchange : YamahaTHR (reddit.com)
+Springsteen '78 Tour Tone,Reddit r/YamahaTHR,Classic,Clean,87,100,56,34,99,American 4x10,0,0,NA,NA,24,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hall,NA,43,45,47,52,Springsteen ‘78 tour tone : YamahaTHR (reddit.com)
+Mastodon (Drop C) w Flanger,Reddit r/YamahaTHR,Boutique,Special,68,93,65,59,72,American 4x12,0,0,37,39,68,21,Flanger,12,26,NA,NA,33,NA,NA,NA,NA,NA,NA,Plate,NA,50,50,0,18,Mastodon (Drop C) : YamahaTHR (reddit.com)
+Mastodon (Drop C) w Chorus,Reddit r/YamahaTHR,Boutique,Special,68,93,65,59,72,American 4x12,0,0,37,39,68,21,Chorus,23,51,29,27,18,NA,NA,NA,NA,NA,NA,Plate,NA,50,50,0,18,
+Jazz Tone,Reddit r/YamahaTHR,Classic,Clean,33,46,62,60,32,Boutique 2x12,0,0,63,59,NA,NA,Tremolo,24,23,NA,NA,49,Tape,39,26,43,0,18,Spring,13,NA,NA,15,30,Jazz Tone : YamahaTHR (reddit.com)
+Jar Of Fries Alice in Chains-ish,Reddit r/YamahaTHR,Boutique,Acoustic,49,82,87,76,77,NA,0,0,34,60,NA,NA,Chorus,4,26,58,35,92,NA,NA,NA,NA,NA,NA,Spring,32,NA,NA,50,51,Alice In Chains-ish Presets : YamahaTHR (reddit.com)
+AIC Them Bones,Reddit r/YamahaTHR,Modern,Lead,34,74,100,96,75,Juicy 4x12,0,0,35,68,72,20,Flanger,4,20,NA,NA,50,Digital Delay,34,19,40,57,31,Spring,25,NA,NA,50,4,
+Alice Metal,Reddit r/YamahaTHR,Modern,Hi Gain,49,80,100,96,75,Brown 4x12,0,0,35,68,65,20,Flanger,4,20,NA,NA,17,NA,NA,NA,NA,NA,NA,Plate,NA,50,50,29,6,
+AIC Chorus,Reddit r/YamahaTHR,Modern,Lead,34,57,100,82,75,Mods 4x12,0,0,30,82,72,20,Chorus,11,25,50,33,45,NA,NA,NA,NA,NA,NA,Spring,25,NA,NA,50,4,
+Would Ending Hi Gain AIC,Reddit r/YamahaTHR,Modern,Hi Gain,91,80,100,88,83,Brown 4x12,0,0,NA,NA,NA,NA,Chorus,11,25,50,33,36,NA,NA,NA,NA,NA,NA,Spring,25,NA,NA,50,4,Here’s another Alice in Chainsy patch : YamahaTHR (reddit.com)
+Dr. Z EOB (4x12 Greenbacks),Reddit r/YamahaTHR,Boutique,Crunch,30,100,83,71,93,British 4x12,0,0,38,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Edge of Breakup/Breakup Patches : YamahaTHR (reddit.com)
+Vox Ac30 Breakup,Reddit r/YamahaTHR,Modern,Crunch,14,73,93,73,86,British 2x12,0,0,76,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Fender Blues Jr. EOB (2x12),Reddit r/YamahaTHR,Boutique,Clean,65,99,100,87,88,American 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Matchless DC30 Edge of Breakup,Reddit r/YamahaTHR,Classic,Crunch,65,96,99,51,85,Boutique 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Marshall 1987X Plexi EOB (2x12),Reddit r/YamahaTHR,Boutique,Lead,44,68,95,24,81,British 2x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,
+Andy Timmons AT_Drive_1,The Gear Page,Classic,Special,8,74,94,34,27,Vintage 4x12,0,0,30,100,54,20,NA,NA,NA,NA,NA,NA,Tape,66,33,58,21,29,Hall,NA,50,50,50,34,YAMAHA THR-II | Page 172 | The Gear Page
+Andy Timmons AT_Drive_2,The Gear Page,Classic,Special,15,61,94,34,27,Vintage 4x12,0,0,30,100,54,20,NA,NA,NA,NA,NA,NA,Tape,66,33,58,21,29,Hall,NA,50,50,50,34,
+Andy Timmons AT_Drive_3,The Gear Page,Classic,Special,30,54,94,34,27,Vintage 4x12,0,0,30,100,25,20,NA,NA,NA,NA,NA,NA,Tape,66,33,58,21,29,Hall,NA,50,50,50,41,
+Andy Timmons Electric Gypsy,Reddit r/YamahaTHR,Classic,Hi Gain,21,85,45,30,40,American 4x12,0,0,22,85,65,20,NA,NA,NA,NA,NA,NA,Digital Delay,34,23,23,23,26,Hall,NA,35,10,38,36,Need help getting the Electric Gypsy tone (Andy Timmons) : YamahaTHR (reddit.com)
+T_s Juicy Clean,Reddit r/YamahaTHR,Classic,Clean,58,100,81,68,75,Juicy 4x12,0,0,72,57,NA,NA,NA,NA,NA,NA,NA,NA,Tape,39,21,66,0,21,Spring,17,NA,NA,45,17,https://www.reddit.com/r/YamahaTHR/comments/1b9xzc8/how_to_recreate_these_tones/?utm_source=share&utm_medium=web2x&context=3
+MK Ultra,Reddit r/YamahaTHR,Boutique,Special,45,45,34,50,70,Juicy 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,41,NA,NA,36,20,https://www.reddit.com/r/YamahaTHR/comments/1cb96zi/marcus_king_tone/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+Little Wing Intro,Reddit r/YamahaTHR,Modern,Lead,1,46,89,27,90,British 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,32,NA,NA,29,4,Little Wing Intro : r/YamahaTHR (reddit.com)
+Metallica And Justice for All,Reddit r/YamahaTHR,Classic,Special,85,80,61,45,50,American 4x12,0,0,78,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Metallica And Justice for all THR-II settings. : r/YamahaTHR (reddit.com)
+Top Gun Anthem Rock Tone,Reddit r/YamahaTHR,Modern,Hi Gain,83,97,61,25,48,Brown 4x12,0,0,NA,NA,65,20,Chorus,14,12,47,25,39,Digital Delay,34,35,17,44,37,Hall,NA,21,41,53,14,Suggestions for getting the Rock tone for Top Gun Anthem? : r/YamahaTHR (reddit.com)
+Appreciation Preset,Reddit r/YamahaTHR,Modern,Clean,89,90,37,40,68,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,,,,,,Plate,,,,,,Yamaha THR (reddit.com)
+Appreciation Preset 1,Reddit r/YamahaTHR,Classic,Clean,65,50,30,40,88,Vintage 4x12,0,0,35,60,NA,NA,Chorus,17,17,50,25,66,Tape,39,34,50,32,32,Plate,NA,15,30,75,22,Yamaha THR30ii Appreciation Presets Pt. 2 : r/YamahaTHR (reddit.com)
+Appreciation Preset 2,Reddit r/YamahaTHR,Modern,Clean,92,96,36,40,68,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,39,34,50,32,33,Plate,NA,15,30,70,30,
+Appreciation Preset 3,Reddit r/YamahaTHR,Boutique,Lead,100,87,31,41,43,American 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,37,33,40,46,29,Plate,NA,15,30,75,22,
+Appreciation Preset 4,Reddit r/YamahaTHR,Modern,Hi Gain,39,38,67,0,86,Brown 4x12,0,0,47,82,NA,NA,NA,NA,NA,NA,NA,NA,Tape,52,34,50,32,32,Plate,NA,15,30,76,21,
+Appreciation Preset 5,Reddit r/YamahaTHR,Boutique,Special,100,40,54,32,74,Juicy 4x12,0,0,30,69,NA,NA,Phaser,0,NA,NA,39,100,Tape,39,34,50,32,32,Plate,NA,15,30,75,22,

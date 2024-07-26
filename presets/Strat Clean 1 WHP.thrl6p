@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Strat Clean 1 WHP",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_Deluxe",
+        "Bass": 0.5,
+        "Drive": 0.5,
+        "Master": 0.1,
+        "Mid": 0.4,
+        "Treble": 0.59
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 14
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.8,
+        "Sustain": 0.4
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.2,
+        "Depth": 0.12,
+        "Feedback": 0.5,
+        "Freq": 0.15,
+        "Pre": 0.2
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.1,
+        "Bass": 0.5,
+        "Feedback": 0.31,
+        "Time": 0.22,
+        "Treble": 0.26
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "StandardSpring",
+        "@enabled": true,
+        "@wetDry": 0.04,
+        "Time": 0,
+        "Tone": 0.5
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.6,
+        "Thresh": 0.35
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

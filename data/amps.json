@@ -1,0 +1,31 @@
+{
+  "Boutique": {
+    "Clean": "THR10C_BJunior2",
+    "Lead": "THR30_Blondie",
+    "Hi Gain": "THR30_FLead",
+    "Acoustic": "THR10_Aco_Tube1",
+    "Bass": "THR10_Bass_Mesa",
+    "Special": "THR10X_South",
+    "Crunch": "THR10C_Mini"
+  },
+  "Classic": {
+    "Hi Gain": "THR10_Modern",
+    "Clean": "THR10C_Deluxe",
+    "Lead": "THR10_Lead",
+    "Bass": "THR10_Bass_Eden_Marcus",
+    "Flat": "THR10_Flat",
+    "Acoustic": "THR10_Aco_Condenser1",
+    "Special": "THR10X_Brown1",
+    "Crunch": "THR10C_DC30"
+  },
+  "Modern": {
+    "Crunch": "THR30_SR101",
+    "Special": "THR30_Stealth",
+    "Acoustic": "THR10_Aco_Dynamic1",
+    "Bass": "THR30_JKBass2",
+    "Flat": "THR10_Flat_V",
+    "Clean": "THR30_Carmen",
+    "Lead": "THR10_Brit",
+    "Hi Gain": "THR10X_Brown2"
+  }
+}

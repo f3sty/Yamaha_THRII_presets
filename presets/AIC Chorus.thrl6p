@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "AIC Chorus",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10_Brit",
+        "Bass": 1.0,
+        "Drive": 0.34,
+        "Master": 0.1,
+        "Mid": 0.82,
+        "Treble": 0.75
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 6
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.82,
+        "Sustain": 0.3
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.45,
+        "Depth": 0.25,
+        "Feedback": 0.33,
+        "Freq": 0.11,
+        "Pre": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "L6DigitalDelay",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Bass": 0,
+        "Feedback": 0,
+        "Time": 0,
+        "Treble": 0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "StandardSpring",
+        "@enabled": true,
+        "@wetDry": 0.04,
+        "Time": 0,
+        "Tone": 0.5
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": 0.72
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

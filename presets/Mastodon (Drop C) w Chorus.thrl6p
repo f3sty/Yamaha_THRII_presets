@@ -1,0 +1,71 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Mastodon (Drop C) w Chorus",
+      "tnid": 0
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_South",
+        "Bass": 0.65,
+        "Drive": 0.68,
+        "Master": 0.1,
+        "Mid": 0.59,
+        "Treble": 0.72
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 1
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.39,
+        "Sustain": 0.37
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.18,
+        "Depth": 0.51,
+        "Feedback": 0.27,
+        "Freq": 0.23,
+        "Pre": 0.29
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "L6DigitalDelay",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Bass": 0,
+        "Feedback": 0,
+        "Time": 0,
+        "Treble": 0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.18,
+        "Time": 0.5,
+        "Tone": 0.0
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.21,
+        "Thresh": 0.68
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
