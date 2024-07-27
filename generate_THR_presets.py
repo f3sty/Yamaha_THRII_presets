@@ -5,17 +5,10 @@ import argparse
 import os
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--master", help="Specify Master volume setting")
 parser.add_argument("--presets", help="csv to read presets from. Defaults to 'presets.csv'")
 parser.add_argument("--out", help="Directory to write preset file to. Defaults to 'presets'")
 
 args = parser.parse_args()
-if args.master:
-    if args.master.isdigit() and int(args.master) < 101:
-        masterVol = args.master
-        print(f"Overriding master volume setting to {args.master}")
-    else:
-        print(f"Invalid Master volume setting {args.master} specified, ignoring")
 
 
 if args.presets:
@@ -73,10 +66,7 @@ with open(presets_file, newline='') as csvfile:
         d['data']['tone']['THRGroupAmp']['Mid'] = fn(row['Mid'])
         d['data']['tone']['THRGroupAmp']['Treble'] = fn(row['Treble'])
         d['data']['tone']['THRGroupAmp']['Drive'] = fn(row['Gain'])
-        if 'masterVol' in vars():
-            d['data']['tone']['THRGroupAmp']['Master'] = fn(masterVol)
-        else:
-            d['data']['tone']['THRGroupAmp']['Master'] = fn(row['Master'])
+        d['data']['tone']['THRGroupAmp']['Master'] = fn(row['Master'])
 
         # Cab type
         d['data']['tone']['THRGroupCab']['SpkSimType'] = cabinet
