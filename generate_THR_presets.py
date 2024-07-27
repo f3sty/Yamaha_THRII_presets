@@ -151,12 +151,14 @@ with open(presets_file, newline='') as csvfile:
           d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = True
 
         # noise gate
-        d['data']['tone']['THRGroupGate']['Thresh'] = (fn(row['Threshold'])* 100) - 100
         d['data']['tone']['THRGroupGate']['Decay'] = fn(row['Decay'])
         if fn(row['Threshold']) == 0:
             d['data']['tone']['THRGroupGate']['@enabled'] = False
+            d['data']['tone']['THRGroupGate']['Thresh'] = 0.0
+
         else:
             d['data']['tone']['THRGroupGate']['@enabled'] = True
+            d['data']['tone']['THRGroupGate']['Thresh'] = (fn(row['Threshold'])* 100) - 100
 
         # write the preset out to a file  
         if not os.path.exists(presets_dir):
