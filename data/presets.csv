@@ -1,4 +1,6 @@
-Preset,Source,Amp,Mode,Gain,Master,Bass,Mid,Treble,Cabinet,Guitar,Audio,Sustain,Level,Threshold,Decay,Type,Speed,Depth,Pre,Feedback,Mix,E_Type,E_Time,E_Feedback,E_Bass,E_Treble,E_Mix,R_Type,Reverb,R_Decay,R_Pre,R_Tone,R_Mix,notes
+Yamaha THRii Presets,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Preset,Source,AMP,,Gain,Master,EQ,,,Cabinet,Volume,,Compressor,,Gate,,Effect,,,,,,Echo,,,,,,Reverb,,,,,,
+,,,,,,Bass,Mid,Treble,,Guitar,Audio,Sustain,Level,Theshold,Decay,Type,Speed,Depth,Pre Delay,Feedback,Mix,Type,Time,Feedback,Bass,Treble,Mix,Type,Reverb,Decay,Pre Delay,Tone,Mix,
 EarlyVH,Factory,Classic,Special,52,68,40,69,74,Brown 4x12,0,0,NA,NA,65,20,,NA,NA,NA,NA,NA,Tape,42,34,50,32,21,Plate,NA,23,31,53,19,
 90s Brown,Factory,Modern,Hi Gain,63,66,61,25,33,Brown 4x12,0,0,NA,NA,65,20,Chorus,14,12,47,25,37,Digital Delay,42,38,17,44,30,Hall,NA,21,41,53,14,
 7str Riff,Factory,Modern,Special,36,70,55,34,78,Fuel 4x12,0,0,NA,NA,59,20,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Plate,NA,31,16,65,7,
@@ -198,7 +200,7 @@ Andy Timmons Electric Gypsy,Reddit r/YamahaTHR,Classic,Hi Gain,21,85,45,30,40,Am
 T_s Juicy Clean,Reddit r/YamahaTHR,Classic,Clean,58,100,81,68,75,Juicy 4x12,0,0,72,57,NA,NA,NA,NA,NA,NA,NA,NA,Tape,39,21,66,0,21,Spring,17,NA,NA,45,17,https://www.reddit.com/r/YamahaTHR/comments/1b9xzc8/how_to_recreate_these_tones/?utm_source=share&utm_medium=web2x&context=3
 MK Ultra,Reddit r/YamahaTHR,Boutique,Special,45,45,34,50,70,Juicy 4x12,0,0,NA,NA,65,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,41,NA,NA,36,20,https://www.reddit.com/r/YamahaTHR/comments/1cb96zi/marcus_king_tone/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 Little Wing Intro,Reddit r/YamahaTHR,Modern,Lead,1,46,89,27,90,British 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Spring,32,NA,NA,29,4,Little Wing Intro : r/YamahaTHR (reddit.com)
-Metallica And Justice for All,Reddit r/YamahaTHR,Classic,Special,85,80,61,45,50,American 4x12,0,0,78,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Metallica And Justice for all THR-II settings. : r/YamahaTHR (reddit.com)
+Metallica And Justice for All,Reddit r/YamahaTHR,Classic,Special,85,80,61,45,50,Amercan 4x12,0,0,78,65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Metallica And Justice for all THR-II settings. : r/YamahaTHR (reddit.com)
 Top Gun Anthem Rock Tone,Reddit r/YamahaTHR,Modern,Hi Gain,83,97,61,25,48,Brown 4x12,0,0,NA,NA,65,20,Chorus,14,12,47,25,39,Digital Delay,34,35,17,44,37,Hall,NA,21,41,53,14,Suggestions for getting the Rock tone for Top Gun Anthem? : r/YamahaTHR (reddit.com)
 Appreciation Preset,Reddit r/YamahaTHR,Modern,Clean,89,90,37,40,68,Vintage 4x12,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Tape,,,,,,Plate,,,,,,Yamaha THR (reddit.com)
 Appreciation Preset 1,Reddit r/YamahaTHR,Classic,Clean,65,50,30,40,88,Vintage 4x12,0,0,35,60,NA,NA,Chorus,17,17,50,25,66,Tape,39,34,50,32,32,Plate,NA,15,30,75,22,Yamaha THR30ii Appreciation Presets Pt. 2 : r/YamahaTHR (reddit.com)

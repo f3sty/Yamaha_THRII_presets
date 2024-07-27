@@ -42,6 +42,9 @@ with open(os.path.join('data','cabs.csv'), newline='') as cabs_csv:
       cabtype[cabname] = cab_id
 
 
+# csv fieldnames
+fieldnames = ["Preset","Source","Amp","Mode","Gain","Master","Bass","Mid","Treble","Cabinet","Guitar","Audio","Sustain","Level","Threshold","Decay","Type","Speed","Depth","Pre","Feedback","Mix","E_Type","E_Time","E_Feedback","E_Bass","E_Treble","E_Mix","R_Type","Reverb","R_Decay","R_Pre","R_Tone","R_Mix","notes"]
+
 def fn(num):
   if num.isdigit():
     return int(num) / 100
@@ -51,11 +54,15 @@ def fn(num):
 
 # Load and process the presets csv
 with open(presets_file, newline='') as csvfile:
-    reader = csv.DictReader(csvfile)
+    reader = csv.DictReader(csvfile, fieldnames=fieldnames)
     for row in reader:
+        if row['Preset'] == "Preset" or row['Preset'] == "Yamaha THRii Presets" or row['Preset'] == "":
+            continue
+
         grpamp = amps[row['Amp']]
         ga = grpamp[row['Mode']]
-        cabinet = int(cabtype[row['Cabinet']])
+        # one typo in the spreadsheet, 'Amercan 4x12'
+        cabinet = int(cabtype[row['Cabinet'].replace("Amercan","American")])
 
         # Preset name
         d['data']['meta']['name'] = row['Preset']
