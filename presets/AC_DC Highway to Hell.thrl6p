@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "AC/DC Highway to Hell",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 3:31"
     },
     "tone": {
       "THRGroupAmp": {

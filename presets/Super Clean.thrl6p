@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Super Clean",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 9:08"
     },
     "tone": {
       "THRGroupAmp": {

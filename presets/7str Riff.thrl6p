@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "7str Riff",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Factory"
     },
     "tone": {
       "THRGroupAmp": {

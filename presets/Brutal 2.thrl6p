@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Brutal 2",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 7:28"
     },
     "tone": {
       "THRGroupAmp": {

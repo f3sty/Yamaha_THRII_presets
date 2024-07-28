@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Blues Clean",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 13:26"
     },
     "tone": {
       "THRGroupAmp": {

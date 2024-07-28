@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Orange Glow/Bluesy Glow",
-      "tnid": 0
+      "tnid": 0,
+      "source": "toneshare.io"
     },
     "tone": {
       "THRGroupAmp": {
@@ -54,7 +55,7 @@
         "@asset": "noiseGate",
         "@enabled": false,
         "Decay": 0,
-        "Thresh": -100
+        "Thresh": 0.0
       },
       "global": {
         "THRPresetParamTempo": 110

@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "SweetSpot",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 4:48"
     },
     "tone": {
       "THRGroupAmp": {

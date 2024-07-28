@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Van Halen 70's 80's",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 2:46"
     },
     "tone": {
       "THRGroupAmp": {

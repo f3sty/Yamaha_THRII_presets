@@ -66,6 +66,7 @@ with open(presets_file, newline='') as csvfile:
 
         # Preset name
         d['data']['meta']['name'] = row['Preset']
+        d['data']['meta']['source'] = row['Source']
 
         # Amp 
         d['data']['tone']['THRGroupAmp']['@asset'] = ga

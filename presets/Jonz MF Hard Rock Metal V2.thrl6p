@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Jonz MF Hard Rock Metal V2",
-      "tnid": 0
+      "tnid": 0,
+      "source": "toneshare.io"
     },
     "tone": {
       "THRGroupAmp": {

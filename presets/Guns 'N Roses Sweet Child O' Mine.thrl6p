@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Guns 'N Roses Sweet Child O' Mine",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 0:01"
     },
     "tone": {
       "THRGroupAmp": {

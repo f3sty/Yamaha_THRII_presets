@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Midgain Lead",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 5:36"
     },
     "tone": {
       "THRGroupAmp": {

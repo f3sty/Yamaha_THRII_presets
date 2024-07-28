@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "MK Ultra",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
     },
     "tone": {
       "THRGroupAmp": {

@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Zerkerf 1",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Youtube 0:10"
     },
     "tone": {
       "THRGroupAmp": {

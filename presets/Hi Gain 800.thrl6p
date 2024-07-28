@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Hi Gain 800",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Youtube 0:51"
     },
     "tone": {
       "THRGroupAmp": {

@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "It Does Djent",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Factory"
     },
     "tone": {
       "THRGroupAmp": {

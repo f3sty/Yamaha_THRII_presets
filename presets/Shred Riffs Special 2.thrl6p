@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Shred Riffs Special 2",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 30:08"
     },
     "tone": {
       "THRGroupAmp": {

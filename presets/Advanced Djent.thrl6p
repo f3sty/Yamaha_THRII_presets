@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Advanced Djent",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 19:42"
     },
     "tone": {
       "THRGroupAmp": {

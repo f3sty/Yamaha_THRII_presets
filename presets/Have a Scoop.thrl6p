@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Have a Scoop",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 5:10"
     },
     "tone": {
       "THRGroupAmp": {

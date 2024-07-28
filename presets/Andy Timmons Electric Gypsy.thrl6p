@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Andy Timmons Electric Gypsy",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
     },
     "tone": {
       "THRGroupAmp": {

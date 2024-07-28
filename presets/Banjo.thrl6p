@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Banjo",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Yamaha Musicians"
     },
     "tone": {
       "THRGroupAmp": {

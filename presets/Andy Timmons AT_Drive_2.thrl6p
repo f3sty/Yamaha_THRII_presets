@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Andy Timmons AT_Drive_2",
-      "tnid": 0
+      "tnid": 0,
+      "source": "The Gear Page"
     },
     "tone": {
       "THRGroupAmp": {

@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Elmo 3 Lead",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 5:06"
     },
     "tone": {
       "THRGroupAmp": {

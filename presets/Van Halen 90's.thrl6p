@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Van Halen 90's",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 6:06"
     },
     "tone": {
       "THRGroupAmp": {

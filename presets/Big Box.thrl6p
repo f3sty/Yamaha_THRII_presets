@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Big Box",
-      "tnid": 0
+      "tnid": 0,
+      "source": "Factory"
     },
     "tone": {
       "THRGroupAmp": {

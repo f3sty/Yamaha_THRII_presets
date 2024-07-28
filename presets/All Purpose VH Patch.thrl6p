@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "All Purpose VH Patch",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 6:03"
     },
     "tone": {
       "THRGroupAmp": {

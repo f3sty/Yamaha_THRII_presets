@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "Fusion Metal Solo",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 7:29"
     },
     "tone": {
       "THRGroupAmp": {

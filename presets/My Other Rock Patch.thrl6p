@@ -4,7 +4,8 @@
     "device_version": 21233761,
     "meta": {
       "name": "My Other Rock Patch",
-      "tnid": 0
+      "tnid": 0,
+      "source": "YouTube 8:45"
     },
     "tone": {
       "THRGroupAmp": {
