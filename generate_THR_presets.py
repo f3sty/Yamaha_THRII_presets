@@ -146,6 +146,8 @@ with open(presets_file, newline='') as csvfile:
         d['data']['tone']['THRGroupFX4EffectReverb']['@wetDry'] = fn(row['R_Mix'])
         d['data']['tone']['THRGroupFX4EffectReverb']['Time'] = fn(row['R_Decay'])
         d['data']['tone']['THRGroupFX4EffectReverb']['Tone'] = fn(row['R_Tone'])
+        d['data']['tone']['THRGroupFX4EffectReverb']['PreDelay'] = fn(row['R_Pre'])
+        d['data']['tone']['THRGroupFX4EffectReverb']['Decay'] = fn(row['R_Decay'])
         if fn(row['R_Mix']) == 0:
           d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = False
         else:

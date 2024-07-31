@@ -49,7 +49,9 @@
         "@enabled": true,
         "@wetDry": 0.09,
         "Time": 0.27,
-        "Tone": 0.32
+        "Tone": 0.32,
+        "PreDelay": 0.17,
+        "Decay": 0.27
       },
       "THRGroupGate": {
         "@asset": "noiseGate",
