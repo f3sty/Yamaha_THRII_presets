@@ -100,7 +100,7 @@ with open(presets_file, newline='') as csvfile:
           elif "Flanger" in etype:
             d['data']['tone']['THRGroupFX2Effect']['@asset'] = "L6Flanger"
           elif "Tremelo" in etype:
-            d['data']['tone']['THRGroupFX2Effect']['@asset'] = "BiasTrremelo"
+            d['data']['tone']['THRGroupFX2Effect']['@asset'] = "BiasTremelo"
 
         d['data']['tone']['THRGroupFX2Effect']['Depth'] = fn(row['Depth'])
         d['data']['tone']['THRGroupFX2Effect']['Feedback'] = fn(row['Feedback'])
