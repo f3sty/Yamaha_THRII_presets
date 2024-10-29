@@ -1,0 +1,74 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Born to Run",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10_Lead",
+        "Bass": 0.7,
+        "Drive": 0.2,
+        "Master": 0.14,
+        "Mid": 0.6,
+        "Treble": 0.46
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 14
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false,
+        "Level": 0,
+        "Sustain": 0
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "Phaser",
+        "@enabled": true,
+        "@wetDry": 0.5,
+        "Depth": 0.35,
+        "Feedback": 0,
+        "Freq": 0.3,
+        "Pre": 0
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.39,
+        "Bass": 0.5,
+        "Feedback": 0.35,
+        "Time": 0.09,
+        "Treble": 0.5
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "StandardSpring",
+        "@enabled": false,
+        "@wetDry": 0,
+        "Time": 0,
+        "Tone": 0,
+        "PreDelay": 0,
+        "Decay": 0
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0,
+        "Thresh": 0.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
