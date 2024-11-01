@@ -23,8 +23,8 @@
       "THRGroupFX1Compressor": {
         "@asset": "RedComp",
         "@enabled": false,
-        "Level": 0,
-        "Sustain": 0
+        "Level": 0.5,
+        "Sustain": 0.5
       },
       "THRGroupFX2Effect": {
         "@asset": "StereoSquareChorus",
@@ -33,16 +33,17 @@
         "Depth": 0.2,
         "Feedback": 0.11,
         "Freq": 0.03,
-        "Pre": 0.27
+        "Pre": 0.27,
+        "Speed": 0.03
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
         "@enabled": false,
-        "@wetDry": 0,
-        "Bass": 0,
-        "Feedback": 0,
-        "Time": 0,
-        "Treble": 0
+        "@wetDry": 0.5,
+        "Bass": 0.5,
+        "Feedback": 0.5,
+        "Time": 0.5,
+        "Treble": 0.5
       },
       "THRGroupFX4EffectReverb": {
         "@asset": "LargePlate1",
@@ -56,8 +57,8 @@
       "THRGroupGate": {
         "@asset": "noiseGate",
         "@enabled": false,
-        "Decay": 0,
-        "Thresh": 0.0
+        "Decay": 0.5,
+        "Thresh": -50.0
       },
       "global": {
         "THRPresetParamTempo": 110

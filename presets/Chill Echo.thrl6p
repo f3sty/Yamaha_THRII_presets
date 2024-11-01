@@ -33,7 +33,8 @@
         "Depth": 0.2,
         "Feedback": 0.12,
         "Freq": 0.03,
-        "Pre": 0.5
+        "Pre": 0.5,
+        "Speed": 0.03
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",

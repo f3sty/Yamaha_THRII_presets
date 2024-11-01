@@ -30,10 +30,11 @@
         "@asset": "Phaser",
         "@enabled": true,
         "@wetDry": 0.38,
-        "Depth": 0,
+        "Depth": 0.5,
         "Feedback": 0.68,
         "Freq": 0.05,
-        "Pre": 0
+        "Pre": 0.5,
+        "Speed": 0.05
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",

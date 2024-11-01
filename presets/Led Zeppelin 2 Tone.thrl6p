@@ -31,9 +31,10 @@
         "@enabled": true,
         "@wetDry": 0.19,
         "Depth": 0.24,
-        "Feedback": 0,
+        "Feedback": 0.5,
         "Freq": 0.33,
-        "Pre": 0
+        "Pre": 0.5,
+        "Speed": 0.33
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
@@ -48,16 +49,16 @@
         "@asset": "StandardSpring",
         "@enabled": true,
         "@wetDry": 0.15,
-        "Time": 0,
+        "Time": 0.5,
         "Tone": 0.19,
-        "PreDelay": 0,
-        "Decay": 0
+        "PreDelay": 0.5,
+        "Decay": 0.5
       },
       "THRGroupGate": {
         "@asset": "noiseGate",
         "@enabled": false,
-        "Decay": 0,
-        "Thresh": 0.0
+        "Decay": 0.5,
+        "Thresh": -50.0
       },
       "global": {
         "THRPresetParamTempo": 110

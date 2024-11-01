@@ -27,13 +27,14 @@
         "Sustain": 0.63
       },
       "THRGroupFX2Effect": {
-        "@asset": "StereoSquareChorus",
+        "@asset": "BiasTremolo",
         "@enabled": true,
         "@wetDry": 0.49,
         "Depth": 0.23,
-        "Feedback": 0,
+        "Feedback": 0.5,
         "Freq": 0.24,
-        "Pre": 0
+        "Pre": 0.5,
+        "Speed": 0.24
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
@@ -48,16 +49,16 @@
         "@asset": "StandardSpring",
         "@enabled": true,
         "@wetDry": 0.3,
-        "Time": 0,
+        "Time": 0.5,
         "Tone": 0.15,
-        "PreDelay": 0,
-        "Decay": 0
+        "PreDelay": 0.5,
+        "Decay": 0.5
       },
       "THRGroupGate": {
         "@asset": "noiseGate",
         "@enabled": false,
-        "Decay": 0,
-        "Thresh": 0.0
+        "Decay": 0.5,
+        "Thresh": -50.0
       },
       "global": {
         "THRPresetParamTempo": 110

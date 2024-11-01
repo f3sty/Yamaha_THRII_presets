@@ -29,29 +29,30 @@
       "THRGroupFX2Effect": {
         "@asset": "StereoSquareChorus",
         "@enabled": false,
-        "@wetDry": 0,
-        "Depth": 0,
-        "Feedback": 0,
-        "Freq": 0,
-        "Pre": 0
+        "@wetDry": 0.5,
+        "Depth": 0.5,
+        "Feedback": 0.5,
+        "Freq": 0.5,
+        "Pre": 0.5,
+        "Speed": 0.5
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
         "@enabled": false,
-        "@wetDry": 0,
-        "Bass": 0,
-        "Feedback": 0,
-        "Time": 0,
-        "Treble": 0
+        "@wetDry": 0.5,
+        "Bass": 0.5,
+        "Feedback": 0.5,
+        "Time": 0.5,
+        "Treble": 0.5
       },
       "THRGroupFX4EffectReverb": {
         "@asset": "StandardSpring",
         "@enabled": false,
-        "@wetDry": 0,
-        "Time": 0,
-        "Tone": 0,
-        "PreDelay": 0,
-        "Decay": 0
+        "@wetDry": 0.5,
+        "Time": 0.5,
+        "Tone": 0.5,
+        "PreDelay": 0.5,
+        "Decay": 0.5
       },
       "THRGroupGate": {
         "@asset": "noiseGate",

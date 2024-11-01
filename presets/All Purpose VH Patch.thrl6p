@@ -33,16 +33,17 @@
         "Depth": 0.32,
         "Feedback": 0.11,
         "Freq": 0.06,
-        "Pre": 1.0
+        "Pre": 1.0,
+        "Speed": 0.06
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
         "@enabled": false,
-        "@wetDry": 0,
-        "Bass": 0,
-        "Feedback": 0,
-        "Time": 0,
-        "Treble": 0
+        "@wetDry": 0.5,
+        "Bass": 0.5,
+        "Feedback": 0.5,
+        "Time": 0.5,
+        "Treble": 0.5
       },
       "THRGroupFX4EffectReverb": {
         "@asset": "LargePlate1",

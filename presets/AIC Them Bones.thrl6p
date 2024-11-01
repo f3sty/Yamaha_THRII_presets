@@ -31,9 +31,10 @@
         "@enabled": true,
         "@wetDry": 0.5,
         "Depth": 0.2,
-        "Feedback": 0,
+        "Feedback": 0.5,
         "Freq": 0.04,
-        "Pre": 0
+        "Pre": 0.5,
+        "Speed": 0.04
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "L6DigitalDelay",
@@ -48,10 +49,10 @@
         "@asset": "StandardSpring",
         "@enabled": true,
         "@wetDry": 0.04,
-        "Time": 0,
+        "Time": 0.5,
         "Tone": 0.5,
-        "PreDelay": 0,
-        "Decay": 0
+        "PreDelay": 0.5,
+        "Decay": 0.5
       },
       "THRGroupGate": {
         "@asset": "noiseGate",

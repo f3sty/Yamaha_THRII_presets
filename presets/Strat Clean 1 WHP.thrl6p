@@ -33,7 +33,8 @@
         "Depth": 0.12,
         "Feedback": 0.5,
         "Freq": 0.15,
-        "Pre": 0.2
+        "Pre": 0.2,
+        "Speed": 0.15
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "TapeEcho",
@@ -48,10 +49,10 @@
         "@asset": "StandardSpring",
         "@enabled": true,
         "@wetDry": 0.04,
-        "Time": 0,
+        "Time": 0.5,
         "Tone": 0.5,
-        "PreDelay": 0,
-        "Decay": 0
+        "PreDelay": 0.5,
+        "Decay": 0.5
       },
       "THRGroupGate": {
         "@asset": "noiseGate",

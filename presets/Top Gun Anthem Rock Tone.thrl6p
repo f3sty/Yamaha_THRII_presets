@@ -23,8 +23,8 @@
       "THRGroupFX1Compressor": {
         "@asset": "RedComp",
         "@enabled": false,
-        "Level": 0,
-        "Sustain": 0
+        "Level": 0.5,
+        "Sustain": 0.5
       },
       "THRGroupFX2Effect": {
         "@asset": "StereoSquareChorus",
@@ -33,7 +33,8 @@
         "Depth": 0.12,
         "Feedback": 0.25,
         "Freq": 0.14,
-        "Pre": 0.47
+        "Pre": 0.47,
+        "Speed": 0.14
       },
       "THRGroupFX3EffectEcho": {
         "@asset": "L6DigitalDelay",

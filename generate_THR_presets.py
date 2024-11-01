@@ -49,8 +49,13 @@ def fn(num):
   if num.isdigit():
     return int(num) / 100
   else:
-    return 0
+    return 0.5  # for disabled settings, set to 50%
 
+def isEnabled(num):
+  if num.isdigit():
+    return True
+  else:
+    return False
 
 # Load and process the presets csv
 with open(presets_file, newline='') as csvfile:
@@ -84,35 +89,30 @@ with open(presets_file, newline='') as csvfile:
         # compressor 
         d['data']['tone']['THRGroupFX1Compressor']['Sustain'] = fn(row['Sustain'])
         d['data']['tone']['THRGroupFX1Compressor']['Level'] = fn(row['Level'])
-        if fn(row['Level']) == 0:
-          d['data']['tone']['THRGroupFX1Compressor']['@enabled'] = False
-        else:
-          d['data']['tone']['THRGroupFX1Compressor']['@enabled'] = True
+        d['data']['tone']['THRGroupFX1Compressor']['@enabled'] = isEnabled(row['Level'])
 
         # Effects
         etype = row['Type']
         if etype != 'NA' and etype != "":
-          # Presets spreadsheet has Chorus/Phaser/Flanger/Tremelo, translate to their proper names
+          # Presets spreadsheet has Chorus/Phaser/Flanger/Tremolo, translate to their proper names
           if "Chorus" in etype:
             d['data']['tone']['THRGroupFX2Effect']['@asset'] = "StereoSquareChorus"
           elif "Phaser" in etype:
             d['data']['tone']['THRGroupFX2Effect']['@asset'] = "Phaser"
           elif "Flanger" in etype:
             d['data']['tone']['THRGroupFX2Effect']['@asset'] = "L6Flanger"
-          elif "Tremelo" in etype:
-            d['data']['tone']['THRGroupFX2Effect']['@asset'] = "BiasTremelo"
+          elif "Tremolo" in etype:
+            d['data']['tone']['THRGroupFX2Effect']['@asset'] = "BiasTremolo"
 
         d['data']['tone']['THRGroupFX2Effect']['Depth'] = fn(row['Depth'])
         d['data']['tone']['THRGroupFX2Effect']['Feedback'] = fn(row['Feedback'])
         d['data']['tone']['THRGroupFX2Effect']['@wetDry'] = fn(row['Mix'])
         d['data']['tone']['THRGroupFX2Effect']['Freq'] = fn(row['Speed'])
+        d['data']['tone']['THRGroupFX2Effect']['Speed'] = fn(row['Speed'])
         d['data']['tone']['THRGroupFX2Effect']['Pre'] = fn(row['Pre'])
 
         # Assume the effects are disabled is mix is zero
-        if fn(row['Mix']) == 0:
-          d['data']['tone']['THRGroupFX2Effect']['@enabled'] = False
-        else:
-          d['data']['tone']['THRGroupFX2Effect']['@enabled'] = True
+        d['data']['tone']['THRGroupFX2Effect']['@enabled'] = isEnabled(row['Mix'])
 
         # Echo
         if row['E_Type'] != 'NA':
@@ -126,10 +126,7 @@ with open(presets_file, newline='') as csvfile:
         d['data']['tone']['THRGroupFX3EffectEcho']['Treble'] = fn(row['E_Treble'])
         d['data']['tone']['THRGroupFX3EffectEcho']['Time'] = fn(row['E_Time'])
         d['data']['tone']['THRGroupFX3EffectEcho']['Feedback'] = fn(row['E_Feedback'])
-        if fn(row['E_Mix']) == 0:
-          d['data']['tone']['THRGroupFX3EffectEcho']['@enabled'] = False
-        else:
-          d['data']['tone']['THRGroupFX3EffectEcho']['@enabled'] = True
+        d['data']['tone']['THRGroupFX3EffectEcho']['@enabled'] = isEnabled(row['E_Mix'])
 
         # Reverb
         rtype = row['R_Type']
@@ -148,20 +145,17 @@ with open(presets_file, newline='') as csvfile:
         d['data']['tone']['THRGroupFX4EffectReverb']['Tone'] = fn(row['R_Tone'])
         d['data']['tone']['THRGroupFX4EffectReverb']['PreDelay'] = fn(row['R_Pre'])
         d['data']['tone']['THRGroupFX4EffectReverb']['Decay'] = fn(row['R_Decay'])
-        if fn(row['R_Mix']) == 0:
-          d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = False
-        else:
-          d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = True
+        d['data']['tone']['THRGroupFX4EffectReverb']['@enabled'] = isEnabled(row['R_Mix'])
 
         # noise gate
         d['data']['tone']['THRGroupGate']['Decay'] = fn(row['Decay'])
-        if fn(row['Threshold']) == 0:
-            d['data']['tone']['THRGroupGate']['@enabled'] = False
-            d['data']['tone']['THRGroupGate']['Thresh'] = 0.0
-
-        else:
+        if isEnabled(row['Threshold']):
             d['data']['tone']['THRGroupGate']['@enabled'] = True
             d['data']['tone']['THRGroupGate']['Thresh'] = (fn(row['Threshold'])* 100) - 100
+
+        else:
+            d['data']['tone']['THRGroupGate']['@enabled'] = False
+            d['data']['tone']['THRGroupGate']['Thresh'] = -50.0
 
         # write the preset out to a file  
         if not os.path.exists(presets_dir):
