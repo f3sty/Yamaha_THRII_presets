@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Piano",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10C_Deluxe",
+        "Bass": 0.35,
+        "Drive": 0.36,
+        "Master": 0.34,
+        "Mid": 0.44,
+        "Treble": 0.52
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 13
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.55,
+        "Sustain": 0.53
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0.5,
+        "Depth": 0.5,
+        "Feedback": 0.5,
+        "Freq": 0.5,
+        "Pre": 0.5,
+        "Speed": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.5,
+        "Bass": 0.29,
+        "Feedback": 0.21,
+        "Time": 0.1,
+        "Treble": 0.51
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.76,
+        "Time": 0.4,
+        "Tone": 0.24,
+        "PreDelay": 0.1,
+        "Decay": 0.4
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0.5,
+        "Thresh": -50.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

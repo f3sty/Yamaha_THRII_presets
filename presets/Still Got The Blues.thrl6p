@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Still Got The Blues",
+      "tnid": 0,
+      "source": "guitarpatches.com"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_Blondie",
+        "Bass": 0.45,
+        "Drive": 0.12,
+        "Master": 1.0,
+        "Mid": 0.57,
+        "Treble": 0.57
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 3
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false,
+        "Level": 0.5,
+        "Sustain": 0.5
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.43,
+        "Depth": 0.24,
+        "Feedback": 0.12,
+        "Freq": 0.11,
+        "Pre": 1.0,
+        "Speed": 0.11
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.36,
+        "Bass": 0.5,
+        "Feedback": 0.35,
+        "Time": 0.39,
+        "Treble": 0.33
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.3,
+        "Time": 0.27,
+        "Tone": 0.7,
+        "PreDelay": 0.33,
+        "Decay": 0.27
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0.5,
+        "Thresh": -50.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}

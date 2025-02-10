@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "U2 Where The Streets Have No Name",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR30_SR101",
+        "Bass": 0.44,
+        "Drive": 0.31,
+        "Master": 0.73,
+        "Mid": 0.77,
+        "Treble": 0.38
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 8
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.82,
+        "Sustain": 0.76
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": true,
+        "@wetDry": 0.12,
+        "Depth": 0.34,
+        "Feedback": 0.02,
+        "Freq": 0.23,
+        "Pre": 0.08,
+        "Speed": 0.23
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "L6DigitalDelay",
+        "@enabled": true,
+        "@wetDry": 0.43,
+        "Bass": 0.36,
+        "Feedback": 0.65,
+        "Time": 0.35,
+        "Treble": 0.7
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.18,
+        "Time": 0.28,
+        "Tone": 0.45,
+        "PreDelay": 0.2,
+        "Decay": 0.28
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0.5,
+        "Thresh": -50.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
