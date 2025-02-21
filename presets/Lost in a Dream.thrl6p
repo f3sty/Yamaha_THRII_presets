@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Lost in a Dream",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_Brown1",
+        "Bass": 0.49,
+        "Drive": 0.82,
+        "Master": 0.85,
+        "Mid": 0.45,
+        "Treble": 0.72
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 3
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.51,
+        "Sustain": 0.83
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "StereoSquareChorus",
+        "@enabled": false,
+        "@wetDry": 0.5,
+        "Depth": 0.5,
+        "Feedback": 0.5,
+        "Freq": 0.5,
+        "Pre": 0.5,
+        "Speed": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": false,
+        "@wetDry": 0.5,
+        "Bass": 0.5,
+        "Feedback": 0.5,
+        "Time": 0.5,
+        "Treble": 0.5
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.93,
+        "Time": 0.9,
+        "Tone": 0.69,
+        "PreDelay": 0.1,
+        "Decay": 0.9
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": false,
+        "Decay": 0.5,
+        "Thresh": -50.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
