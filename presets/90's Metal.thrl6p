@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "90's Metal",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10X_Brown1",
+        "Bass": 1.0,
+        "Drive": 1.0,
+        "Master": 0.69,
+        "Mid": 0.3,
+        "Treble": 1.0
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 2
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": true,
+        "Level": 0.49,
+        "Sustain": 0.53
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "L6Flanger",
+        "@enabled": true,
+        "@wetDry": 0.07,
+        "Depth": 0.12,
+        "Feedback": 0.5,
+        "Freq": 0.04,
+        "Pre": 0.5,
+        "Speed": 0.04
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": false,
+        "@wetDry": 0.5,
+        "Bass": 0.5,
+        "Feedback": 0.5,
+        "Time": 0.5,
+        "Treble": 0.5
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "LargePlate1",
+        "@enabled": true,
+        "@wetDry": 0.5,
+        "Time": 0.15,
+        "Tone": 0.5,
+        "PreDelay": 0.3,
+        "Decay": 0.15
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": -35.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
