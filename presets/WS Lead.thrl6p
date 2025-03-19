@@ -37,7 +37,7 @@
         "Speed": 0.5
       },
       "THRGroupFX3EffectEcho": {
-        "@asset": "TapeEcho",
+        "@asset": "L6DigitalDelay",
         "@enabled": false,
         "@wetDry": 0.5,
         "Bass": 0.5,
