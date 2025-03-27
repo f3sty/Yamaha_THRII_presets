@@ -1,0 +1,75 @@
+{
+  "data": {
+    "device": 2359298,
+    "device_version": 21233761,
+    "meta": {
+      "name": "Slash Appetite Tone Update",
+      "tnid": 0,
+      "source": "Reddit r/YamahaTHR"
+    },
+    "tone": {
+      "THRGroupAmp": {
+        "@asset": "THR10_Modern",
+        "Bass": 0.25,
+        "Drive": 0.34,
+        "Master": 0.69,
+        "Mid": 0.79,
+        "Treble": 1.0
+      },
+      "THRGroupCab": {
+        "@asset": "speakerSimulator",
+        "SpkSimType": 3
+      },
+      "THRGroupFX1Compressor": {
+        "@asset": "RedComp",
+        "@enabled": false,
+        "Level": 0.5,
+        "Sustain": 0.5
+      },
+      "THRGroupFX2Effect": {
+        "@asset": "L6Flanger",
+        "@enabled": false,
+        "@wetDry": 0.5,
+        "Depth": 0.5,
+        "Feedback": 0.5,
+        "Freq": 0.5,
+        "Pre": 0.5,
+        "Speed": 0.5
+      },
+      "THRGroupFX3EffectEcho": {
+        "@asset": "TapeEcho",
+        "@enabled": true,
+        "@wetDry": 0.15,
+        "Bass": 0.43,
+        "Feedback": 0.26,
+        "Time": 0.25,
+        "Treble": 0.0
+      },
+      "THRGroupFX4EffectReverb": {
+        "@asset": "ReallyLargeHall",
+        "@enabled": true,
+        "@wetDry": 0.29,
+        "Time": 0.5,
+        "Tone": 0.48,
+        "PreDelay": 0.5,
+        "Decay": 0.5
+      },
+      "THRGroupGate": {
+        "@asset": "noiseGate",
+        "@enabled": true,
+        "Decay": 0.2,
+        "Thresh": -35.0
+      },
+      "global": {
+        "THRPresetParamTempo": 110
+      }
+    }
+  },
+  "meta": {
+    "original": 0,
+    "pbn": 0,
+    "premium": 0
+  },
+  "schema": "L6Preset",
+  "version": 5
+}
